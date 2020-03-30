@@ -1,3 +1,3 @@
 ## Travelling Salesman Problem
 
-This is the project for the course DD2440 - Advanced Algorithms
+This is a solution to the travelling salesman problem, using an evolutionary algorithm for the course DD2380-Artificial-Intelligence. 
